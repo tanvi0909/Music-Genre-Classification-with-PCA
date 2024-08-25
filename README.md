@@ -1,7 +1,7 @@
 # 🎵 Music Genre Classification Project with PCA and Logistic Regression
 A Machine Learning Project Predicting Music Styles through Dimensionality Reduction
 
-<!-- ![Music Genre](https://example.com/your-music-genre-image.jpg) -->
+![Music Genre](guitar-8598823_1280.jpg)
 
 ## Project Overview
 In the era of digital streaming, categorizing and recommending music based on genres is essential. This project aims to classify music genres using a dataset of musical features extracted from tracks across various styles. Despite some missing genre labels, the objective is to predict the genres of these unlabeled tracks.
